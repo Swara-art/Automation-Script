@@ -87,15 +87,15 @@ AUTOMATION SCRIPT/
 **1. Clone the repository**
  
 ```bash
-git clone [https://github.com/Swara-art/Automation-Script].git
-cd file-organiser
+git clone https://github.com/Swara-art/Automation-Script.git
+cd Automation-Script
 ```
  
 **2. Create and activate a virtual environment**
  
 ```bash
 # Windows
-python -m venv .venv
+uv venv
 .venv\Scripts\activate
  
 # Mac / Linux
@@ -123,7 +123,7 @@ Open **`http://127.0.0.1:8000/docs`** for the interactive Swagger UI where you c
  
 ## 📡 API Reference
  
-### `GET /organiser/run`
+### `GET /automate/run`
  
 Organises all files in the specified folder into categorised subfolders.
  
