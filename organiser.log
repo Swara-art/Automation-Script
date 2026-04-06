@@ -1,0 +1,73 @@
+2026-04-06 23:34:31 | INFO     | Received /run request — folder_path: C:\Users\Swara Deshpande\Desktop\test
+2026-04-06 23:36:41 | INFO     | Received /run request — folder_path: C:\Users\Swara Deshpande\Desktop\test
+2026-04-06 23:36:41 | INFO     | ==================================================
+2026-04-06 23:36:41 | INFO     | Organising folder: C:\Users\Swara Deshpande\Desktop\test
+2026-04-06 23:36:41 | INFO     | Moved: Claude-by-Anthropic-for-PowerPoint.pptx  \u2192  Documents/
+2026-04-06 23:36:41 | INFO     | Moved: DSC_0194.NEF  \u2192  Others/
+2026-04-06 23:36:41 | INFO     | Moved: DSC_0196.NEF  \u2192  Others/
+2026-04-06 23:36:41 | INFO     | Moved: DSC_0201.NEF  \u2192  Others/
+2026-04-06 23:36:41 | INFO     | Moved: DSC_0214.NEF  \u2192  Others/
+2026-04-06 23:36:41 | INFO     | Moved: DSC_0216.NEF  \u2192  Others/
+2026-04-06 23:36:41 | INFO     | Moved: DSC_0217.NEF  \u2192  Others/
+2026-04-06 23:36:41 | INFO     | Moved: FinTrack.zip  \u2192  Archives/
+2026-04-06 23:36:41 | INFO     | Moved: natranga ubha.mpeg  \u2192  Others/
+2026-04-06 23:36:41 | INFO     | Moved: nritya.mp3  \u2192  Music/
+2026-04-06 23:36:41 | INFO     | Moved: PBL_Report_IEEE.docx  \u2192  Documents/
+2026-04-06 23:36:41 | INFO     | Moved: Photo.jpg  \u2192  Images/
+2026-04-06 23:36:41 | INFO     | Moved: phulvanti.mp3  \u2192  Music/
+2026-04-06 23:36:41 | INFO     | Moved: Qskill_python (1).pdf  \u2192  Documents/
+2026-04-06 23:36:41 | INFO     | Moved: Swara Deshpande Signature.jpg  \u2192  Images/
+2026-04-06 23:36:41 | INFO     | Moved: SwaraDeshpandeResume.pdf  \u2192  Documents/
+2026-04-06 23:36:41 | INFO     | Moved: Swara_Deshapande_Marksheet.pdf  \u2192  Documents/
+2026-04-06 23:36:41 | INFO     | Moved: Swara_PanCard.pdf  \u2192  Documents/
+2026-04-06 23:36:41 | INFO     | Moved: WhatsApp Image 2025-07-16 at 17.16.30_88ea013c.jpg  \u2192  Images/
+2026-04-06 23:36:41 | INFO     | Done — moved: 19, skipped: 0, errors: 0
+2026-04-06 23:37:47 | INFO     | Received /run request — folder_path: C:\Users\Swara Deshpande\Desktop\test
+2026-04-06 23:37:47 | INFO     | ==================================================
+2026-04-06 23:37:47 | INFO     | Organising folder: C:\Users\Swara Deshpande\Desktop\test
+2026-04-06 23:37:47 | DEBUG    | Skipped (not a file): Archives
+2026-04-06 23:37:47 | DEBUG    | Skipped (not a file): Documents
+2026-04-06 23:37:47 | DEBUG    | Skipped (not a file): Images
+2026-04-06 23:37:47 | DEBUG    | Skipped (not a file): Music
+2026-04-06 23:37:47 | DEBUG    | Skipped (not a file): Others
+2026-04-06 23:37:47 | INFO     | Done — moved: 0, skipped: 5, errors: 0
+2026-04-06 23:39:25 | INFO     | Received /run request — folder_path: C:\Users\Swara Deshpande\Desktop\test
+2026-04-06 23:39:25 | INFO     | ==================================================
+2026-04-06 23:39:25 | INFO     | Organising folder: C:\Users\Swara Deshpande\Desktop\test
+2026-04-06 23:39:25 | INFO     | Moved: Claude-by-Anthropic-for-PowerPoint.pptx  \u2192  Documents/
+2026-04-06 23:39:25 | INFO     | Moved: DSC_0194.NEF  \u2192  Others/
+2026-04-06 23:39:25 | INFO     | Moved: DSC_0196.NEF  \u2192  Others/
+2026-04-06 23:39:25 | INFO     | Moved: DSC_0201.NEF  \u2192  Others/
+2026-04-06 23:39:25 | INFO     | Moved: DSC_0214.NEF  \u2192  Others/
+2026-04-06 23:39:25 | INFO     | Moved: DSC_0216.NEF  \u2192  Others/
+2026-04-06 23:39:25 | INFO     | Moved: DSC_0217.NEF  \u2192  Others/
+2026-04-06 23:39:25 | INFO     | Moved: FinTrack.zip  \u2192  Archives/
+2026-04-06 23:39:26 | INFO     | Moved: natranga ubha.mpeg  \u2192  Music/
+2026-04-06 23:39:26 | INFO     | Moved: nritya.mp3  \u2192  Music/
+2026-04-06 23:39:26 | INFO     | Moved: PBL_Report_IEEE.docx  \u2192  Documents/
+2026-04-06 23:39:26 | INFO     | Moved: Photo.jpg  \u2192  Images/
+2026-04-06 23:39:26 | INFO     | Moved: phulvanti.mp3  \u2192  Music/
+2026-04-06 23:39:26 | INFO     | Moved: Qskill_python (1).pdf  \u2192  Documents/
+2026-04-06 23:39:26 | INFO     | Moved: Swara Deshpande Signature.jpg  \u2192  Images/
+2026-04-06 23:39:26 | INFO     | Moved: SwaraDeshpandeResume.pdf  \u2192  Documents/
+2026-04-06 23:39:26 | INFO     | Moved: Swara_Deshapande_Marksheet.pdf  \u2192  Documents/
+2026-04-06 23:39:26 | INFO     | Moved: Swara_PanCard.pdf  \u2192  Documents/
+2026-04-06 23:39:26 | INFO     | Moved: WhatsApp Image 2025-07-16 at 17.16.30_88ea013c.jpg  \u2192  Images/
+2026-04-06 23:39:26 | INFO     | Done — moved: 19, skipped: 0, errors: 0
+2026-04-06 23:41:30 | INFO     | Received /run request — folder_path: C:\Users\Swara Deshpande\Desktop\test
+2026-04-06 23:41:30 | INFO     | ==================================================
+2026-04-06 23:41:30 | INFO     | Organising folder: C:\Users\Swara Deshpande\Desktop\test
+2026-04-06 23:41:30 | INFO     | Moved: 2025-08-23 12-50-09.mkv  \u2192  Videos/
+2026-04-06 23:41:30 | INFO     | Moved: 2025-08-23 12-57-45.mkv  \u2192  Videos/
+2026-04-06 23:41:30 | INFO     | Moved: 2025-10-15 11-30-11.mkv  \u2192  Videos/
+2026-04-06 23:41:30 | DEBUG    | Skipped (not a file): Archives
+2026-04-06 23:41:30 | INFO     | Moved: chat_schema.py  \u2192  Code/
+2026-04-06 23:41:30 | DEBUG    | Skipped (not a file): Documents
+2026-04-06 23:41:30 | INFO     | Moved: document_schema.py  \u2192  Code/
+2026-04-06 23:41:30 | DEBUG    | Skipped (not a file): Images
+2026-04-06 23:41:30 | DEBUG    | Skipped (not a file): Music
+2026-04-06 23:41:30 | DEBUG    | Skipped (not a file): Others
+2026-04-06 23:41:30 | INFO     | Moved: Python_Assignment.docx  \u2192  Documents/
+2026-04-06 23:41:30 | INFO     | Moved: user_schema.py  \u2192  Code/
+2026-04-06 23:41:30 | INFO     | Moved: __init__.py  \u2192  Code/
+2026-04-06 23:41:30 | INFO     | Done — moved: 8, skipped: 5, errors: 0
